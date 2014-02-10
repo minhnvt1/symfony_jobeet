@@ -3,6 +3,7 @@
 namespace Ens\JobeetBundle\Entity;
 
 use Doctrine\ORM\Mapping as ORM;
+use Ens\JobeetBundle\Utils\Jobeet as Jobeet;
 
 /**
  * Job
@@ -104,7 +105,7 @@ class Job
     {
         return $this->id;
     }
-
+    public $file;
     /**
      * Set type
      *
@@ -127,7 +128,15 @@ class Job
     {
         return $this->type;
     }
+    public static function getTypes()
+    {
+        return array('full-time' => 'Full time', 'part-time' => 'Part time', 'freelance' => 'Freelance');
+    }
 
+    public static function getTypeValues()
+    {
+        return array_keys(self::getTypes());
+    }
     /**
      * Set company
      *
@@ -482,12 +491,31 @@ class Job
             $this->created_at = new \DateTime();
         }
     }
-
+    public function setExpiresAtValue()
+    {
+        if (!$this->getExpiresAt())
+        {
+            $now = $this->getCreatedAt() ? $this->getCreatedAt()->format('U') : time();
+            $this->expires_at = new \DateTime(date('Y-m-d H:i:s', $now + 86400 * 30));
+        }
+    }
     /**
      * @ORM\PreUpdate
      */
     public function setUpdatedAtValue()
     {
         $this->created_at = new \DateTime();
+    }
+    public function getCompanySlug()
+    {
+        return Jobeet::slugify($this->getCompany());
+    }
+    public function getPositionSlug()
+    {
+        return Jobeet::slugify($this->getPosition());
+    }
+    public function getLocationSlug()
+    {
+        return Jobeet::slugify($this->getLocation());
     }
 }

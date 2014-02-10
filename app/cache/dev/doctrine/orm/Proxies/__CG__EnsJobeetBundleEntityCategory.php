@@ -64,10 +64,10 @@ class Category extends \Ens\JobeetBundle\Entity\Category implements \Doctrine\OR
     public function __sleep()
     {
         if ($this->__isInitialized__) {
-            return array('__isInitialized__', 'id', 'name', 'jobs', 'category_affiliates');
+            return array('__isInitialized__', 'id', 'name', 'jobs', 'category_affiliates', 'active_jobs', 'more_jobs', 'slug');
         }
 
-        return array('__isInitialized__', 'id', 'name', 'jobs', 'category_affiliates');
+        return array('__isInitialized__', 'id', 'name', 'jobs', 'category_affiliates', 'active_jobs', 'more_jobs', 'slug');
     }
 
     /**
@@ -213,6 +213,28 @@ class Category extends \Ens\JobeetBundle\Entity\Category implements \Doctrine\OR
     /**
      * {@inheritDoc}
      */
+    public function setActiveJobs($jobs)
+    {
+
+        $this->__initializer__ && $this->__initializer__->__invoke($this, 'setActiveJobs', array($jobs));
+
+        return parent::setActiveJobs($jobs);
+    }
+
+    /**
+     * {@inheritDoc}
+     */
+    public function getActiveJobs()
+    {
+
+        $this->__initializer__ && $this->__initializer__->__invoke($this, 'getActiveJobs', array());
+
+        return parent::getActiveJobs();
+    }
+
+    /**
+     * {@inheritDoc}
+     */
     public function addJob(\Ens\JobeetBundle\Entity\Job $jobs)
     {
 
@@ -279,12 +301,67 @@ class Category extends \Ens\JobeetBundle\Entity\Category implements \Doctrine\OR
     /**
      * {@inheritDoc}
      */
+    public function setMoreJobs($jobs)
+    {
+
+        $this->__initializer__ && $this->__initializer__->__invoke($this, 'setMoreJobs', array($jobs));
+
+        return parent::setMoreJobs($jobs);
+    }
+
+    /**
+     * {@inheritDoc}
+     */
+    public function getMoreJobs()
+    {
+
+        $this->__initializer__ && $this->__initializer__->__invoke($this, 'getMoreJobs', array());
+
+        return parent::getMoreJobs();
+    }
+
+    /**
+     * {@inheritDoc}
+     */
     public function __toString()
     {
 
         $this->__initializer__ && $this->__initializer__->__invoke($this, '__toString', array());
 
         return parent::__toString();
+    }
+
+    /**
+     * {@inheritDoc}
+     */
+    public function setSlug($slug)
+    {
+
+        $this->__initializer__ && $this->__initializer__->__invoke($this, 'setSlug', array($slug));
+
+        return parent::setSlug($slug);
+    }
+
+    /**
+     * {@inheritDoc}
+     */
+    public function getSlug()
+    {
+
+        $this->__initializer__ && $this->__initializer__->__invoke($this, 'getSlug', array());
+
+        return parent::getSlug();
+    }
+
+    /**
+     * {@inheritDoc}
+     */
+    public function setSlugValue()
+    {
+
+        $this->__initializer__ && $this->__initializer__->__invoke($this, 'setSlugValue', array());
+
+        return parent::setSlugValue();
     }
 
 }

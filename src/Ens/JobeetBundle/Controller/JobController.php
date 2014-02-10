@@ -16,17 +16,24 @@ class JobController extends Controller
 {
 
     /**
-     * Lists all Job entities.
+     * Lists all active Job entities.
      *
      */
     public function indexAction()
     {
         $em = $this->getDoctrine()->getManager();
 
-        $entities = $em->getRepository('EnsJobeetBundle:Job')->findAll();
+        $categories = $em->getRepository('EnsJobeetBundle:Category')->getWithJobs();
+
+        foreach($categories as $category)
+        {
+            $category->setActiveJobs($em->getRepository('EnsJobeetBundle:Job')->getActiveJobs($category->getId(), $this->container->getParameter('max_jobs_on_homepage')));
+            $category->setMoreJobs($em->getRepository('EnsJobeetBundle:Job')->countActiveJobs($category->getId()) - $this->container->getParameter('max_jobs_on_homepage'));
+        }
+
 
         return $this->render('EnsJobeetBundle:Job:index.html.twig', array(
-            'entities' => $entities,
+            'categories' => $categories,
         ));
     }
     /**
@@ -79,8 +86,24 @@ class JobController extends Controller
     public function newAction()
     {
         $entity = new Job();
-        $form   = $this->createCreateForm($entity);
+        $request = $this->getRequest();
 
+        $form   = $this->createForm(new JobType(), $entity);
+        $form->bind($request);
+
+        if ($form->isValid()) {
+            $em = $this->getDoctrine()->getEntityManager();
+
+            $em->persist($entity);
+            $em->flush();
+
+            return $this->redirect($this->generateUrl('ens_job_show', array(
+                'company' => $entity->getCompanySlug(),
+                'location' => $entity->getLocationSlug(),
+                'id' => $entity->getId(),
+                'position' => $entity->getPositionSlug()
+            )));
+        }
         return $this->render('EnsJobeetBundle:Job:new.html.twig', array(
             'entity' => $entity,
             'form'   => $form->createView(),
@@ -95,7 +118,7 @@ class JobController extends Controller
     {
         $em = $this->getDoctrine()->getManager();
 
-        $entity = $em->getRepository('EnsJobeetBundle:Job')->find($id);
+        $entity = $em->getRepository('EnsJobeetBundle:Job')->getActiveJob($id);
 
         if (!$entity) {
             throw $this->createNotFoundException('Unable to find Job entity.');

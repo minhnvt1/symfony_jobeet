@@ -1,0 +1,1144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8fbcf790-c71e-47bb-95f2-aec2cc97d695" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/5344f2eabe77255efff025567eff54c7566f793c#editAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/59fd5a242afd82b90a6ceb5e74a56292751b5ff4#urlRedirectAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/59fd5a242afd82b90a6ceb5e74a56292751b5ff4.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/01/91/4a9101" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/05/bf/e0bf05" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/05/e9/71e905" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/0c/1a/a31a0c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/11/d9/17d911" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/15/69/5e6915" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/17/85/418517" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/19/52/905219" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/1c/d2/1ed21c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/21/14/2a1421" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/26/bf/8dbf26" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/28/ee/a9ee28" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/30/9e/689e30" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/31/78/817831" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/3b/87/b7873b" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/3e/2d/8b2d3e" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/40/19/f41940" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/40/c4/b4c440" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/47/e6/d0e647" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/48/9e/519e48" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/48/c6/bfc648" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/4b/b2/7fb24b" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/4d/92/a0924d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/51/1e/dc1e51" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/54/66/5b6654" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/57/13/231357" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/58/5a/da5a58" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/5b/72/50725b" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/5c/0d/8e0d5c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/5c/a3/7ba35c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/5d/59/b6595d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/5e/ae/87ae5e" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/61/57/4e5761" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/62/32/b03262" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/63/04/f40463" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/63/a4/1ea463" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/64/3f/653f64" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/66/31/363166" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/69/ac/0fac69" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/69/c2/edc269" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/6c/44/5c446c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/6c/74/a7746c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/6c/d7/48d76c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/6d/d3/d4d36d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/6e/89/fe896e" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/6f/a2/b0a26f" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/74/ac/05ac74" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/76/8b/5d8b76" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/78/2b/7e2b78" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/7d/41/f5417d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/7f/72/36727f" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/7f/b3/ddb37f" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/81/08/d30881" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/85/7c/9e7c85" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/86/06/420686" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/86/27/6e2786" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/86/90/3d9086" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/8f/49/3c498f" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/90/a2/5aa290" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/9a/f0/fbf09a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/9b/5d/a15d9b" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/a0/d1/f9d1a0" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/a5/3e/483ea5" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/a5/62/3862a5" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/a6/47/4247a6" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/a9/d4/0ad4a9" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/aa/86/3d86aa" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/ae/0c/d50cae" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/af/68/d168af" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/b1/73/1b73b1" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/b1/a7/6fa7b1" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/b8/e5/82e5b8" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/c2/b7/8cb7c2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/c2/dc/eedcc2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/c4/b3/bbb3c4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/ca/12/6012ca" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/ca/db/0ddbca" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/cc/60/5460cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/cc/96/2996cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/d3/7b/9d7bd3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/da/53/0653da" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/db/e9/08e9db" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/e1/49/8f49e1" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/e2/1a/b11ae2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/e7/fd/43fde7" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/ed/1d/a71ded" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/f0/09/cb09f0" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/f0/f8/a4f8f0" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/f1/2b/7b2bf1" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/f1/38/4438f1" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/f4/e3/6fe3f4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/f5/16/5b16f5" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/f8/dd/aeddf8" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/fa/8a/0e8afa" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/fc/d1/b5d1fc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/ff/30/3e30ff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/ff/c6/3bc6ff" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/doctrine/doctrine-fixtures-bundle/Doctrine/Bundle/FixturesBundle" afterPath="$PROJECT_DIR$/vendor/doctrine/doctrine-fixtures-bundle/Doctrine/Bundle/FixturesBundle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Ens/JobeetBundle/Resources/public/images/bg-footer.jpg" afterPath="$PROJECT_DIR$/src/Ens/JobeetBundle/Resources/public/images/bg-footer.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/bundles/ensjobeet/images/bg-footer.jpg" afterPath="$PROJECT_DIR$/web/bundles/ensjobeet/images/bg-footer.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Ens/JobeetBundle/Resources/public/images/bg-header.jpg" afterPath="$PROJECT_DIR$/src/Ens/JobeetBundle/Resources/public/images/bg-header.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/bundles/ensjobeet/images/bg-header.jpg" afterPath="$PROJECT_DIR$/web/bundles/ensjobeet/images/bg-header.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Ens/JobeetBundle/Resources/public/images/bg-listheader.gif" afterPath="$PROJECT_DIR$/src/Ens/JobeetBundle/Resources/public/images/bg-listheader.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/bundles/ensjobeet/images/bg-listheader.gif" afterPath="$PROJECT_DIR$/web/bundles/ensjobeet/images/bg-listheader.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Ens/JobeetBundle/Resources/public/images/bg-page.png" afterPath="$PROJECT_DIR$/src/Ens/JobeetBundle/Resources/public/images/bg-page.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/bundles/ensjobeet/images/bg-page.png" afterPath="$PROJECT_DIR$/web/bundles/ensjobeet/images/bg-page.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Ens/JobeetBundle/Resources/public/images/bg-subheader.gif" afterPath="$PROJECT_DIR$/src/Ens/JobeetBundle/Resources/public/images/bg-subheader.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/bundles/ensjobeet/images/bg-subheader.gif" afterPath="$PROJECT_DIR$/web/bundles/ensjobeet/images/bg-subheader.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/bundles/acmedemo/images/blue-arrow.png" afterPath="$PROJECT_DIR$/web/bundles/acmedemo/images/blue-arrow.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/bundles/sensiodistribution/webconfigurator/images/blue-arrow.png" afterPath="$PROJECT_DIR$/web/bundles/sensiodistribution/webconfigurator/images/blue-arrow.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/bundles/framework/images/blue_picto_less.gif" afterPath="$PROJECT_DIR$/web/bundles/framework/images/blue_picto_less.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/bundles/framework/images/blue_picto_more.gif" afterPath="$PROJECT_DIR$/web/bundles/framework/images/blue_picto_more.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Ens/JobeetBundle/Resources/public/images/button-post.jpg" afterPath="$PROJECT_DIR$/src/Ens/JobeetBundle/Resources/public/images/button-post.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/bundles/ensjobeet/images/button-post.jpg" afterPath="$PROJECT_DIR$/web/bundles/ensjobeet/images/button-post.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Ens/JobeetBundle/Resources/public/images/button-search.jpg" afterPath="$PROJECT_DIR$/src/Ens/JobeetBundle/Resources/public/images/button-search.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/bundles/ensjobeet/images/button-search.jpg" afterPath="$PROJECT_DIR$/web/bundles/ensjobeet/images/button-search.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Ens/JobeetBundle/Resources/public/images/favicon.ico" afterPath="$PROJECT_DIR$/src/Ens/JobeetBundle/Resources/public/images/favicon.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/bundles/ensjobeet/images/favicon.ico" afterPath="$PROJECT_DIR$/web/bundles/ensjobeet/images/favicon.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/bundles/sensiodistribution/webconfigurator/images/favicon.ico" afterPath="$PROJECT_DIR$/web/bundles/sensiodistribution/webconfigurator/images/favicon.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Ens/JobeetBundle/Resources/public/images/feed.png" afterPath="$PROJECT_DIR$/src/Ens/JobeetBundle/Resources/public/images/feed.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/bundles/ensjobeet/images/feed.png" afterPath="$PROJECT_DIR$/web/bundles/ensjobeet/images/feed.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/bundles/acmedemo/images/field-background.gif" afterPath="$PROJECT_DIR$/web/bundles/acmedemo/images/field-background.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Ens/JobeetBundle/Resources/public/images/first.png" afterPath="$PROJECT_DIR$/src/Ens/JobeetBundle/Resources/public/images/first.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/bundles/ensjobeet/images/first.png" afterPath="$PROJECT_DIR$/web/bundles/ensjobeet/images/first.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/bundles/framework/images/grey_magnifier.png" afterPath="$PROJECT_DIR$/web/bundles/framework/images/grey_magnifier.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Ens/JobeetBundle/Resources/public/images/header-job.jpg" afterPath="$PROJECT_DIR$/src/Ens/JobeetBundle/Resources/public/images/header-job.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/bundles/ensjobeet/images/header-job.jpg" afterPath="$PROJECT_DIR$/web/bundles/ensjobeet/images/header-job.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Ens/JobeetBundle/Resources/public/images/jobeet-mini.png" afterPath="$PROJECT_DIR$/src/Ens/JobeetBundle/Resources/public/images/jobeet-mini.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/bundles/ensjobeet/images/jobeet-mini.png" afterPath="$PROJECT_DIR$/web/bundles/ensjobeet/images/jobeet-mini.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Ens/JobeetBundle/Resources/public/images/last.png" afterPath="$PROJECT_DIR$/src/Ens/JobeetBundle/Resources/public/images/last.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/bundles/ensjobeet/images/last.png" afterPath="$PROJECT_DIR$/web/bundles/ensjobeet/images/last.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Ens/JobeetBundle/Resources/public/images/loader.gif" afterPath="$PROJECT_DIR$/src/Ens/JobeetBundle/Resources/public/images/loader.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/bundles/ensjobeet/images/loader.gif" afterPath="$PROJECT_DIR$/web/bundles/ensjobeet/images/loader.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/bundles/acmedemo/images/logo.gif" afterPath="$PROJECT_DIR$/web/bundles/acmedemo/images/logo.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Ens/JobeetBundle/Resources/public/images/logo.jpg" afterPath="$PROJECT_DIR$/src/Ens/JobeetBundle/Resources/public/images/logo.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/bundles/ensjobeet/images/logo.jpg" afterPath="$PROJECT_DIR$/web/bundles/ensjobeet/images/logo.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/bundles/framework/images/logo_symfony.png" afterPath="$PROJECT_DIR$/web/bundles/framework/images/logo_symfony.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Ens/JobeetBundle/Resources/public/images/next.png" afterPath="$PROJECT_DIR$/src/Ens/JobeetBundle/Resources/public/images/next.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/bundles/ensjobeet/images/next.png" afterPath="$PROJECT_DIR$/web/bundles/ensjobeet/images/next.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/bundles/sensiodistribution/webconfigurator/images/notification.gif" afterPath="$PROJECT_DIR$/web/bundles/sensiodistribution/webconfigurator/images/notification.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Ens/JobeetBundle/Resources/public/images/previous.png" afterPath="$PROJECT_DIR$/src/Ens/JobeetBundle/Resources/public/images/previous.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/bundles/ensjobeet/images/previous.png" afterPath="$PROJECT_DIR$/web/bundles/ensjobeet/images/previous.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Ens/JobeetBundle/Resources/public/images/search-box.jpg" afterPath="$PROJECT_DIR$/src/Ens/JobeetBundle/Resources/public/images/search-box.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/bundles/ensjobeet/images/search-box.jpg" afterPath="$PROJECT_DIR$/web/bundles/ensjobeet/images/search-box.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/bundles/acmedemo/images/search.png" afterPath="$PROJECT_DIR$/web/bundles/acmedemo/images/search.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Ens/JobeetBundle/Resources/public/images/sensio-labs.gif" afterPath="$PROJECT_DIR$/src/Ens/JobeetBundle/Resources/public/images/sensio-labs.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/bundles/ensjobeet/images/sensio-labs.gif" afterPath="$PROJECT_DIR$/web/bundles/ensjobeet/images/sensio-labs.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Ens/JobeetBundle/Resources/public/images/symfony.gif" afterPath="$PROJECT_DIR$/src/Ens/JobeetBundle/Resources/public/images/symfony.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/bundles/ensjobeet/images/symfony.gif" afterPath="$PROJECT_DIR$/web/bundles/ensjobeet/images/symfony.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/bundles/acmedemo/images/welcome-configure.gif" afterPath="$PROJECT_DIR$/web/bundles/acmedemo/images/welcome-configure.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/bundles/acmedemo/images/welcome-demo.gif" afterPath="$PROJECT_DIR$/web/bundles/acmedemo/images/welcome-demo.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/bundles/acmedemo/images/welcome-quick-tour.gif" afterPath="$PROJECT_DIR$/web/bundles/acmedemo/images/welcome-quick-tour.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/doctrine/data-fixtures/.gitignore" afterPath="$PROJECT_DIR$/vendor/doctrine/data-fixtures/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/64/d4/066788defaf686db9c21640ca05a14a77effbb1ad008c05d2f93a6516ab3.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/64/d4/066788defaf686db9c21640ca05a14a77effbb1ad008c05d2f93a6516ab3.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/60/b0/0810c31242796bfa82c74713a549d558831435ff7c520dafc32cf9f8c3fa.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/60/b0/0810c31242796bfa82c74713a549d558831435ff7c520dafc32cf9f8c3fa.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/79/f7/0819e5e87b7c5fbfbd0995f4202596c1b118074d5d989aff9d1565c5f379.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/79/f7/0819e5e87b7c5fbfbd0995f4202596c1b118074d5d989aff9d1565c5f379.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/16/e6/09ae212df85294cc5c561fd816a447cb3fa0d3bd84bb754a29834374fe35.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/16/e6/09ae212df85294cc5c561fd816a447cb3fa0d3bd84bb754a29834374fe35.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/a7/94/0f0148e0e3b2dba39d09a9e0965fd9eb592b2a651b86a9c5055e143fc8e3.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/a7/94/0f0148e0e3b2dba39d09a9e0965fd9eb592b2a651b86a9c5055e143fc8e3.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/aa/ba/11d2d7f7ad0f8e691e407f620850504ff387fb673cddef3fea37cc19492a.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/aa/ba/11d2d7f7ad0f8e691e407f620850504ff387fb673cddef3fea37cc19492a.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/84/30/163e02a11b2ad9e3b92924c74a2a042da1d95a44e891bb407ea977f5b242.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/84/30/163e02a11b2ad9e3b92924c74a2a042da1d95a44e891bb407ea977f5b242.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/ac/64/2419acc7ffed2b3f8d44b2f9a67554707d859f5292f210952d962d751763.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/ac/64/2419acc7ffed2b3f8d44b2f9a67554707d859f5292f210952d962d751763.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/e7/80/2445e678c383b36549401128ca924627dbb79cd891ed5ecdab6a0af4a5ad.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/e7/80/2445e678c383b36549401128ca924627dbb79cd891ed5ecdab6a0af4a5ad.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/4c/b1/274effdae96aa20bfeae38028dfc2f42179e2ea0d7821b86b2bfbb0c4141.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/4c/b1/274effdae96aa20bfeae38028dfc2f42179e2ea0d7821b86b2bfbb0c4141.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/e8/17/27e37e3084f82ee02d08fdaaf1fb96d34358ee2944c229c2d68d4e2fdff7.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/e8/17/27e37e3084f82ee02d08fdaaf1fb96d34358ee2944c229c2d68d4e2fdff7.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/af/da/2dddcbb58e14816ce688c365af910a5339797a3a51d6b8da6bf8cd45edbb.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/af/da/2dddcbb58e14816ce688c365af910a5339797a3a51d6b8da6bf8cd45edbb.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/1f/dc/2fe3ee2a28fc4dee53f7ced36a5898818d43a9dbecc39e496b5ba9868630.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/1f/dc/2fe3ee2a28fc4dee53f7ced36a5898818d43a9dbecc39e496b5ba9868630.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/54/e9/3b0f9870f4bd183c0174c323ac47e0646be4a2074ce04ac76dde4937a8b1.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/54/e9/3b0f9870f4bd183c0174c323ac47e0646be4a2074ce04ac76dde4937a8b1.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/48/9a/3f14c223103d1f9f7fbb04d4e435ae9f756748736d856fbc11b0ef9847a3.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/48/9a/3f14c223103d1f9f7fbb04d4e435ae9f756748736d856fbc11b0ef9847a3.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/d5/b8/4133b41df046e99ca8782c50fd87af069e2e7d605f393de87c93da23d058.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/d5/b8/4133b41df046e99ca8782c50fd87af069e2e7d605f393de87c93da23d058.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/d2/e4/4324f6ae2c6a8b1efcb44c506f8c3dd4daf3cfd9d068cb56815042b53d25.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/d2/e4/4324f6ae2c6a8b1efcb44c506f8c3dd4daf3cfd9d068cb56815042b53d25.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/3e/1a/46d450056a430c1d2912315e86d366952ee37585f0d9fa750714ebcf6376.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/3e/1a/46d450056a430c1d2912315e86d366952ee37585f0d9fa750714ebcf6376.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/53/a7/46e70d2e357574572635ad6ebe1a00af3caa922cf95073825b7598710a09.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/53/a7/46e70d2e357574572635ad6ebe1a00af3caa922cf95073825b7598710a09.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/29/f3/4d293d53a864df3e2fd9f8b287371828371887f28f656cd8a67bf8e53423.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/29/f3/4d293d53a864df3e2fd9f8b287371828371887f28f656cd8a67bf8e53423.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/5f/1e/5467853886c79fbc31806b0708ca7b55d24b6ca1635b28d43ddb6e086c4d.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/5f/1e/5467853886c79fbc31806b0708ca7b55d24b6ca1635b28d43ddb6e086c4d.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/81/19/5d85c35ca0c31878f5f6568a8bd4cef61fe3d212de0df0bbb7dbabd11105.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/81/19/5d85c35ca0c31878f5f6568a8bd4cef61fe3d212de0df0bbb7dbabd11105.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/d8/71/5fc28b8168282324ddf2bfe9f12494698e00d0e8a70f9749da82fb00610b.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/d8/71/5fc28b8168282324ddf2bfe9f12494698e00d0e8a70f9749da82fb00610b.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/67/03/62dc22ac2bf661ae73117ec36e4bdb896101a33b99a4c365b0e2025781d9.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/67/03/62dc22ac2bf661ae73117ec36e4bdb896101a33b99a4c365b0e2025781d9.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/ff/72/6303402878de03d5335e65e57dd1a489fb972414ff1b53f9e45f60adf0c4.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/ff/72/6303402878de03d5335e65e57dd1a489fb972414ff1b53f9e45f60adf0c4.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/64/4f/635b2f0683b8bfbf8b352e5e140f751b4ab8e64177bb32598c8dd8080955.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/64/4f/635b2f0683b8bfbf8b352e5e140f751b4ab8e64177bb32598c8dd8080955.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/68/d1/654c2be67278750939fdb1565a736264c2664738c491279540cd5d8f77cc.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/68/d1/654c2be67278750939fdb1565a736264c2664738c491279540cd5d8f77cc.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/be/b2/6f2ac59033971b83fcbe8089f6b842f71fc0fdbd5f06cf34a5bb8a5f1b6a.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/be/b2/6f2ac59033971b83fcbe8089f6b842f71fc0fdbd5f06cf34a5bb8a5f1b6a.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/a2/78/70f77c3c45e9f092e5cc1a87cdfc98ae6f72cecf4c6949b7d4279037f081.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/a2/78/70f77c3c45e9f092e5cc1a87cdfc98ae6f72cecf4c6949b7d4279037f081.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/9c/ed/73818700f8d3c7d5c73ade5a1ce59818dded64c5d06435c4d135e53f8218.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/9c/ed/73818700f8d3c7d5c73ade5a1ce59818dded64c5d06435c4d135e53f8218.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/75/15/7f827bd5bc30488a539e0eb0af25e86df33871d3e55539816ecd16ae837e.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/75/15/7f827bd5bc30488a539e0eb0af25e86df33871d3e55539816ecd16ae837e.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/c6/c1/9801c346efcb986d15ae223dfc8cb0dddbe2bcdc3d3c54135f6fcfdea71a.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/c6/c1/9801c346efcb986d15ae223dfc8cb0dddbe2bcdc3d3c54135f6fcfdea71a.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/44/e9/99785fa54f3bcc329882de55a2195c96c15fde0365289f8f6f0d363b88d7.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/44/e9/99785fa54f3bcc329882de55a2195c96c15fde0365289f8f6f0d363b88d7.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/60/c3/9dfa471cebc25b79806dadfce2f543b85d2bd8f00f57141b4428596a6aa1.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/60/c3/9dfa471cebc25b79806dadfce2f543b85d2bd8f00f57141b4428596a6aa1.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/42/13/9eb0ba85057449ae51408da3df62efe4c0ea2200733976ec40cb45a08b6f.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/42/13/9eb0ba85057449ae51408da3df62efe4c0ea2200733976ec40cb45a08b6f.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/8e/c0/9fc0377633e768572b223699e660eec0fda9c7230653763bef584bcaed8a.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/8e/c0/9fc0377633e768572b223699e660eec0fda9c7230653763bef584bcaed8a.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/doctrine/data-fixtures/lib/Doctrine/Common/DataFixtures/Executor/AbstractExecutor.php" afterPath="$PROJECT_DIR$/vendor/doctrine/data-fixtures/lib/Doctrine/Common/DataFixtures/Executor/AbstractExecutor.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/doctrine/data-fixtures/lib/Doctrine/Common/DataFixtures/AbstractFixture.php" afterPath="$PROJECT_DIR$/vendor/doctrine/data-fixtures/lib/Doctrine/Common/DataFixtures/AbstractFixture.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/doctrine/data-fixtures/tests/Doctrine/Tests/Common/DataFixtures/BaseTest.php" afterPath="$PROJECT_DIR$/vendor/doctrine/data-fixtures/tests/Doctrine/Tests/Common/DataFixtures/BaseTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Ens/JobeetBundle/Resources/config/doctrine/Category.orm.yml" afterPath="$PROJECT_DIR$/src/Ens/JobeetBundle/Resources/config/doctrine/Category.orm.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Ens/JobeetBundle/Entity/Category.php" afterPath="$PROJECT_DIR$/src/Ens/JobeetBundle/Entity/Category.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/doctrine/data-fixtures/lib/Doctrine/Common/DataFixtures/Exception/CircularReferenceException.php" afterPath="$PROJECT_DIR$/vendor/doctrine/data-fixtures/lib/Doctrine/Common/DataFixtures/Exception/CircularReferenceException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/doctrine/data-fixtures/lib/Doctrine/Common/DataFixtures/DependentFixtureInterface.php" afterPath="$PROJECT_DIR$/vendor/doctrine/data-fixtures/lib/Doctrine/Common/DataFixtures/DependentFixtureInterface.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/doctrine/data-fixtures/tests/Doctrine/Tests/Common/DataFixtures/DependentFixtureTest.php" afterPath="$PROJECT_DIR$/vendor/doctrine/data-fixtures/tests/Doctrine/Tests/Common/DataFixtures/DependentFixtureTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/doctrine/data-fixtures/lib/Doctrine/Common/DataFixtures/FixtureInterface.php" afterPath="$PROJECT_DIR$/vendor/doctrine/data-fixtures/lib/Doctrine/Common/DataFixtures/FixtureInterface.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/doctrine/data-fixtures/tests/Doctrine/Tests/Common/DataFixtures/FixtureTest.php" afterPath="$PROJECT_DIR$/vendor/doctrine/data-fixtures/tests/Doctrine/Tests/Common/DataFixtures/FixtureTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Ens/JobeetBundle/Resources/config/doctrine/Job.orm.yml" afterPath="$PROJECT_DIR$/src/Ens/JobeetBundle/Resources/config/doctrine/Job.orm.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Ens/JobeetBundle/Entity/Job.php" afterPath="$PROJECT_DIR$/src/Ens/JobeetBundle/Entity/Job.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Ens/JobeetBundle/Controller/JobController.php" afterPath="$PROJECT_DIR$/src/Ens/JobeetBundle/Controller/JobController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Ens/JobeetBundle/Form/JobType.php" afterPath="$PROJECT_DIR$/src/Ens/JobeetBundle/Form/JobType.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/doctrine/data-fixtures/LICENSE" afterPath="$PROJECT_DIR$/vendor/doctrine/data-fixtures/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Ens/JobeetBundle/DataFixtures/ORM/LoadJobData.php" afterPath="$PROJECT_DIR$/src/Ens/JobeetBundle/DataFixtures/ORM/LoadJobData.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/doctrine/data-fixtures/lib/Doctrine/Common/DataFixtures/Loader.php" afterPath="$PROJECT_DIR$/vendor/doctrine/data-fixtures/lib/Doctrine/Common/DataFixtures/Loader.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/doctrine/data-fixtures/tests/Doctrine/Tests/Common/DataFixtures/LoaderTest.php" afterPath="$PROJECT_DIR$/vendor/doctrine/data-fixtures/tests/Doctrine/Tests/Common/DataFixtures/LoaderTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/doctrine/data-fixtures/lib/Doctrine/Common/DataFixtures/Executor/MongoDBExecutor.php" afterPath="$PROJECT_DIR$/vendor/doctrine/data-fixtures/lib/Doctrine/Common/DataFixtures/Executor/MongoDBExecutor.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/doctrine/data-fixtures/lib/Doctrine/Common/DataFixtures/Purger/MongoDBPurger.php" afterPath="$PROJECT_DIR$/vendor/doctrine/data-fixtures/lib/Doctrine/Common/DataFixtures/Purger/MongoDBPurger.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/doctrine/data-fixtures/lib/Doctrine/Common/DataFixtures/Event/Listener/MongoDBReferenceListener.php" afterPath="$PROJECT_DIR$/vendor/doctrine/data-fixtures/lib/Doctrine/Common/DataFixtures/Event/Listener/MongoDBReferenceListener.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/doctrine/data-fixtures/tests/Doctrine/Tests/Common/DataFixtures/TestFixtures/MyFixture1.php" afterPath="$PROJECT_DIR$/vendor/doctrine/data-fixtures/tests/Doctrine/Tests/Common/DataFixtures/TestFixtures/MyFixture1.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/doctrine/data-fixtures/tests/Doctrine/Tests/Common/DataFixtures/TestFixtures/MyFixture2.php" afterPath="$PROJECT_DIR$/vendor/doctrine/data-fixtures/tests/Doctrine/Tests/Common/DataFixtures/TestFixtures/MyFixture2.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/doctrine/data-fixtures/tests/Doctrine/Tests/Common/DataFixtures/TestFixtures/NotAFixture.php" afterPath="$PROJECT_DIR$/vendor/doctrine/data-fixtures/tests/Doctrine/Tests/Common/DataFixtures/TestFixtures/NotAFixture.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/doctrine/data-fixtures/lib/Doctrine/Common/DataFixtures/Executor/ORMExecutor.php" afterPath="$PROJECT_DIR$/vendor/doctrine/data-fixtures/lib/Doctrine/Common/DataFixtures/Executor/ORMExecutor.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/doctrine/data-fixtures/tests/Doctrine/Tests/Common/DataFixtures/Executor/ORMExecutorSharedFixtureTest.php" afterPath="$PROJECT_DIR$/vendor/doctrine/data-fixtures/tests/Doctrine/Tests/Common/DataFixtures/Executor/ORMExecutorSharedFixtureTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/doctrine/data-fixtures/tests/Doctrine/Tests/Common/DataFixtures/Executor/ORMExecutorTest.php" afterPath="$PROJECT_DIR$/vendor/doctrine/data-fixtures/tests/Doctrine/Tests/Common/DataFixtures/Executor/ORMExecutorTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/doctrine/data-fixtures/lib/Doctrine/Common/DataFixtures/Purger/ORMPurger.php" afterPath="$PROJECT_DIR$/vendor/doctrine/data-fixtures/lib/Doctrine/Common/DataFixtures/Purger/ORMPurger.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/doctrine/data-fixtures/lib/Doctrine/Common/DataFixtures/Event/Listener/ORMReferenceListener.php" afterPath="$PROJECT_DIR$/vendor/doctrine/data-fixtures/lib/Doctrine/Common/DataFixtures/Event/Listener/ORMReferenceListener.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/doctrine/data-fixtures/lib/Doctrine/Common/DataFixtures/OrderedFixtureInterface.php" afterPath="$PROJECT_DIR$/vendor/doctrine/data-fixtures/lib/Doctrine/Common/DataFixtures/OrderedFixtureInterface.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/doctrine/data-fixtures/tests/Doctrine/Tests/Common/DataFixtures/OrderedFixtureTest.php" afterPath="$PROJECT_DIR$/vendor/doctrine/data-fixtures/tests/Doctrine/Tests/Common/DataFixtures/OrderedFixtureTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/doctrine/data-fixtures/lib/Doctrine/Common/DataFixtures/Executor/PHPCRExecutor.php" afterPath="$PROJECT_DIR$/vendor/doctrine/data-fixtures/lib/Doctrine/Common/DataFixtures/Executor/PHPCRExecutor.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/doctrine/data-fixtures/lib/Doctrine/Common/DataFixtures/Purger/PHPCRPurger.php" afterPath="$PROJECT_DIR$/vendor/doctrine/data-fixtures/lib/Doctrine/Common/DataFixtures/Purger/PHPCRPurger.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/doctrine/data-fixtures/lib/Doctrine/Common/DataFixtures/ProxyReferenceRepository.php" afterPath="$PROJECT_DIR$/vendor/doctrine/data-fixtures/lib/Doctrine/Common/DataFixtures/ProxyReferenceRepository.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/doctrine/data-fixtures/tests/Doctrine/Tests/Common/DataFixtures/ProxyReferenceRepositoryTest.php" afterPath="$PROJECT_DIR$/vendor/doctrine/data-fixtures/tests/Doctrine/Tests/Common/DataFixtures/ProxyReferenceRepositoryTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/doctrine/data-fixtures/lib/Doctrine/Common/DataFixtures/Purger/PurgerInterface.php" afterPath="$PROJECT_DIR$/vendor/doctrine/data-fixtures/lib/Doctrine/Common/DataFixtures/Purger/PurgerInterface.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/doctrine/data-fixtures/README.md" afterPath="$PROJECT_DIR$/vendor/doctrine/data-fixtures/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/doctrine/data-fixtures/lib/Doctrine/Common/DataFixtures/ReferenceRepository.php" afterPath="$PROJECT_DIR$/vendor/doctrine/data-fixtures/lib/Doctrine/Common/DataFixtures/ReferenceRepository.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/doctrine/data-fixtures/tests/Doctrine/Tests/Common/DataFixtures/ReferenceRepositoryTest.php" afterPath="$PROJECT_DIR$/vendor/doctrine/data-fixtures/tests/Doctrine/Tests/Common/DataFixtures/ReferenceRepositoryTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/doctrine/data-fixtures/tests/Doctrine/Tests/Common/DataFixtures/TestEntity/Role.php" afterPath="$PROJECT_DIR$/vendor/doctrine/data-fixtures/tests/Doctrine/Tests/Common/DataFixtures/TestEntity/Role.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/doctrine/data-fixtures/tests/Doctrine/Tests/Common/DataFixtures/TestFixtures/RoleFixture.php" afterPath="$PROJECT_DIR$/vendor/doctrine/data-fixtures/tests/Doctrine/Tests/Common/DataFixtures/TestFixtures/RoleFixture.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/doctrine/data-fixtures/lib/Doctrine/Common/DataFixtures/SharedFixtureInterface.php" afterPath="$PROJECT_DIR$/vendor/doctrine/data-fixtures/lib/Doctrine/Common/DataFixtures/SharedFixtureInterface.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/doctrine/data-fixtures/UPGRADE" afterPath="$PROJECT_DIR$/vendor/doctrine/data-fixtures/UPGRADE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/doctrine/data-fixtures/tests/Doctrine/Tests/Common/DataFixtures/TestEntity/User.php" afterPath="$PROJECT_DIR$/vendor/doctrine/data-fixtures/tests/Doctrine/Tests/Common/DataFixtures/TestEntity/User.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/doctrine/data-fixtures/tests/Doctrine/Tests/Common/DataFixtures/TestFixtures/UserFixture.php" afterPath="$PROJECT_DIR$/vendor/doctrine/data-fixtures/tests/Doctrine/Tests/Common/DataFixtures/TestFixtures/UserFixture.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/doctrine/orm/Proxies/__CG__EnsJobeetBundleEntityCategory.php" afterPath="$PROJECT_DIR$/app/cache/dev/doctrine/orm/Proxies/__CG__EnsJobeetBundleEntityCategory.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/f4/e1/a025636a8e677084d12fdbb8249d6fd1c13600743cf54c0a7591b97166af.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/f4/e1/a025636a8e677084d12fdbb8249d6fd1c13600743cf54c0a7591b97166af.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/4c/11/a9f6b10fe4a1b69997a5d76f934f4ef00cd020a28307c833415f93284245.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/4c/11/a9f6b10fe4a1b69997a5d76f934f4ef00cd020a28307c833415f93284245.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/39/53/adae8d778b65519a7be2ca7fbff6f86fb2b9d1e76e75f0e4d8c2eb6e1ee8.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/39/53/adae8d778b65519a7be2ca7fbff6f86fb2b9d1e76e75f0e4d8c2eb6e1ee8.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Ens/JobeetBundle/Resources/public/css/admin.css" afterPath="$PROJECT_DIR$/src/Ens/JobeetBundle/Resources/public/css/admin.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/bundles/ensjobeet/css/admin.css" afterPath="$PROJECT_DIR$/web/bundles/ensjobeet/css/admin.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainer.php" afterPath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainer.xml" afterPath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainer.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/appDevUrlGenerator.php.meta" afterPath="$PROJECT_DIR$/app/cache/dev/appDevUrlGenerator.php.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/appDevUrlGenerator.php" afterPath="$PROJECT_DIR$/app/cache/dev/appDevUrlGenerator.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/appDevUrlMatcher.php" afterPath="$PROJECT_DIR$/app/cache/dev/appDevUrlMatcher.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" afterPath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/e8/c6/bcd51ca17fa8df278c1daa9107eafdf42ed0e31eb06cce5e114b363bac7d.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/e8/c6/bcd51ca17fa8df278c1daa9107eafdf42ed0e31eb06cce5e114b363bac7d.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/bundles/framework/css/body.css" afterPath="$PROJECT_DIR$/web/bundles/framework/css/body.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/bootstrap.php.cache" afterPath="$PROJECT_DIR$/app/bootstrap.php.cache" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/doctrine/data-fixtures/tests/bootstrap.php" afterPath="$PROJECT_DIR$/vendor/doctrine/data-fixtures/tests/bootstrap.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/d8/4d/c14b27149bb210e971549c0f87e54f84407b10c837396937ca656e3b1097.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/d8/4d/c14b27149bb210e971549c0f87e54f84407b10c837396937ca656e3b1097.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/92/67/c39ccb83ed3bb199ee62f484cf0c01771014fdc326b462cea0f08a1c6694.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/92/67/c39ccb83ed3bb199ee62f484cf0c01771014fdc326b462cea0f08a1c6694.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/6d/d6/c633d9ba228dec5c3aea87c28d6ae04be5212bf2b0a0860e92eaf40dd5c2.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/6d/d6/c633d9ba228dec5c3aea87c28d6ae04be5212bf2b0a0860e92eaf40dd5c2.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/57/54/c7527ac3413e87d2f80061feec53e4074ae24f278e430eb17bfdf9041cc9.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/57/54/c7527ac3413e87d2f80061feec53e4074ae24f278e430eb17bfdf9041cc9.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/d1/69/c7cfff4ba3df66534b32b81160c19887f2d96d11a3cdb42941b56cd917fa.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/d1/69/c7cfff4ba3df66534b32b81160c19887f2d96d11a3cdb42941b56cd917fa.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/ab/de/cb393631be4d9255bb830e491364b2d534ef012a87a431e375e1b40ed480.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/ab/de/cb393631be4d9255bb830e491364b2d534ef012a87a431e375e1b40ed480.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/doctrine/data-fixtures/composer.json" afterPath="$PROJECT_DIR$/vendor/doctrine/data-fixtures/composer.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config/config.yml" afterPath="$PROJECT_DIR$/app/config/config.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/bundles/sensiodistribution/webconfigurator/css/configurator.css" afterPath="$PROJECT_DIR$/web/bundles/sensiodistribution/webconfigurator/css/configurator.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/96/ef/d7448997ff3ca0ece1cff4727c7af1b2fd121b1d43af8a56b88b96bfc80f.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/96/ef/d7448997ff3ca0ece1cff4727c7af1b2fd121b1d43af8a56b88b96bfc80f.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/bundles/acmedemo/css/demo.css" afterPath="$PROJECT_DIR$/web/bundles/acmedemo/css/demo.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/logs/dev.log" afterPath="$PROJECT_DIR$/app/logs/dev.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/bc/b1/e092ebff930269d1008714d7c9b38787cdf8e6dc5377fbe7d4d6ee52e93f.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/bc/b1/e092ebff930269d1008714d7c9b38787cdf8e6dc5377fbe7d4d6ee52e93f.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/30/e8/edabcce635021cca2ca67ebe429176732d9ec6b2741f9014c63e9bc09279.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/30/e8/edabcce635021cca2ca67ebe429176732d9ec6b2741f9014c63e9bc09279.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/bundles/framework/css/exception.css" afterPath="$PROJECT_DIR$/web/bundles/framework/css/exception.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/ac/30/f2adee197f1be3e6fd30d3fd04633e14fcdd88dd55460c6c1a5f2f14eba0.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/ac/30/f2adee197f1be3e6fd30d3fd04633e14fcdd88dd55460c6c1a5f2f14eba0.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/e8/e7/f9eb159eeb7dd414f494b1010608ba4ea226655303c8216e66cfadb2c1d7.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/e8/e7/f9eb159eeb7dd414f494b1010608ba4ea226655303c8216e66cfadb2c1d7.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/index.csv" afterPath="$PROJECT_DIR$/app/cache/dev/profiler/index.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Ens/JobeetBundle/Resources/views/Job/index.html.twig" afterPath="$PROJECT_DIR$/src/Ens/JobeetBundle/Resources/views/Job/index.html.twig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/bundles/sensiodistribution/webconfigurator/css/install.css" afterPath="$PROJECT_DIR$/web/bundles/sensiodistribution/webconfigurator/css/install.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Ens/JobeetBundle/Resources/public/css/job.css" afterPath="$PROJECT_DIR$/src/Ens/JobeetBundle/Resources/public/css/job.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/bundles/ensjobeet/css/job.css" afterPath="$PROJECT_DIR$/web/bundles/ensjobeet/css/job.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Ens/JobeetBundle/Resources/config/routing/job.yml" afterPath="$PROJECT_DIR$/src/Ens/JobeetBundle/Resources/config/routing/job.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Ens/JobeetBundle/Resources/public/css/jobs.css" afterPath="$PROJECT_DIR$/src/Ens/JobeetBundle/Resources/public/css/jobs.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/bundles/ensjobeet/css/jobs.css" afterPath="$PROJECT_DIR$/web/bundles/ensjobeet/css/jobs.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Ens/JobeetBundle/Resources/views/layout.html.twig" afterPath="$PROJECT_DIR$/src/Ens/JobeetBundle/Resources/views/layout.html.twig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Ens/JobeetBundle/Resources/public/css/main.css" afterPath="$PROJECT_DIR$/src/Ens/JobeetBundle/Resources/public/css/main.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/bundles/ensjobeet/css/main.css" afterPath="$PROJECT_DIR$/web/bundles/ensjobeet/css/main.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/doctrine/data-fixtures/phpunit.xml.dist" afterPath="$PROJECT_DIR$/vendor/doctrine/data-fixtures/phpunit.xml.dist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Ens/JobeetBundle/Resources/config/routing.yml" afterPath="$PROJECT_DIR$/src/Ens/JobeetBundle/Resources/config/routing.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/bundles/framework/css/structure.css" afterPath="$PROJECT_DIR$/web/bundles/framework/css/structure.css" />
+    </list>
+    <ignored path="jobeet.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="jobeet" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="JobController.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Ens/JobeetBundle/Controller/JobController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="92" column="0" selection-start="2502" selection-end="2502" vertical-scroll-proportion="-15.333333" vertical-offset="1242" max-vertical-offset="4536">
+              <folding>
+                <element signature="e#47#92#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Job.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Ens/JobeetBundle/Entity/Job.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="107" column="17" selection-start="1327" selection-end="1327" vertical-scroll-proportion="-7.263158" vertical-offset="1512" max-vertical-offset="9486">
+              <folding>
+                <element signature="e#43#75#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JobType.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Ens/JobeetBundle/Form/JobType.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="27" column="93" selection-start="912" selection-end="912" vertical-scroll-proportion="-18.0" vertical-offset="0" max-vertical-offset="1026">
+              <folding>
+                <element signature="e#41#81#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="validation.yml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Ens/JobeetBundle/Resources/config/validation.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="25" column="10" selection-start="546" selection-end="556" vertical-scroll-proportion="0.4849138" vertical-offset="0" max-vertical-offset="928">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html.twig" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Ens/JobeetBundle/Resources/views/Job/index.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="30" column="124" selection-start="1594" selection-end="1602" vertical-scroll-proportion="-20.0" vertical-offset="0" max-vertical-offset="774">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="layout.html.twig" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Ens/JobeetBundle/Resources/views/layout.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="28" column="53" selection-start="982" selection-end="982" vertical-scroll-proportion="-10.666667" vertical-offset="216" max-vertical-offset="1746">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="new.html.twig" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Ens/JobeetBundle/Resources/views/Job/new.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="378">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CategoryController.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Ens/JobeetBundle/Controller/CategoryController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="42" column="37" selection-start="1450" selection-end="1450" vertical-scroll-proportion="-28.0" vertical-offset="0" max-vertical-offset="918">
+              <folding>
+                <element signature="e#6#65#0" expanded="true" />
+                <element signature="e#107#152#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="show.html.twig" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Ens/JobeetBundle/Resources/views/Category/show.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="39" column="35" selection-start="1579" selection-end="1579" vertical-scroll-proportion="-19.37037" vertical-offset="179" max-vertical-offset="1080">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="list.html.twig" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Ens/JobeetBundle/Resources/views/Job/list.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="8" selection-start="622" selection-end="622" vertical-scroll-proportion="-9.333333" vertical-offset="0" max-vertical-offset="360">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/Ens/JobeetBundle/Utils/Jobeet.php" />
+        <option value="$PROJECT_DIR$/src/Ens/JobeetBundle/Resources/config/routing/job.yml" />
+        <option value="$PROJECT_DIR$/src/Ens/JobeetBundle/Resources/config/doctrine/Job.orm.yml" />
+        <option value="$PROJECT_DIR$/src/Ens/JobeetBundle/Repository/CategoryRepository.php" />
+        <option value="$PROJECT_DIR$/src/Ens/JobeetBundle/DataFixtures/ORM/LoadJobData.php" />
+        <option value="$PROJECT_DIR$/src/Ens/JobeetBundle/Resources/views/Job/index.html.twig" />
+        <option value="$PROJECT_DIR$/src/Ens/JobeetBundle/Resources/config/doctrine/Category.orm.yml" />
+        <option value="$PROJECT_DIR$/src/Ens/JobeetBundle/Entity/Category.php" />
+        <option value="$PROJECT_DIR$/src/Ens/JobeetBundle/Controller/CategoryConroller.php" />
+        <option value="$PROJECT_DIR$/src/Ens/JobeetBundle/Resources/views/Job/list.html.twig" />
+        <option value="$PROJECT_DIR$/src/Ens/JobeetBundle/Resources/config/routing.yml" />
+        <option value="$PROJECT_DIR$/app/config/config.yml" />
+        <option value="$PROJECT_DIR$/src/Ens/JobeetBundle/Repository/JobRepository.php" />
+        <option value="$PROJECT_DIR$/src/Ens/JobeetBundle/Controller/CategoryController.php" />
+        <option value="$PROJECT_DIR$/src/Ens/JobeetBundle/Resources/views/Category/show.html.twig" />
+        <option value="$PROJECT_DIR$/src/Ens/JobeetBundle/Resources/views/layout.html.twig" />
+        <option value="$PROJECT_DIR$/src/Ens/JobeetBundle/Controller/JobController.php" />
+        <option value="$PROJECT_DIR$/src/Ens/JobeetBundle/Entity/Job.php" />
+        <option value="$PROJECT_DIR$/src/Ens/JobeetBundle/Form/JobType.php" />
+        <option value="$PROJECT_DIR$/src/Ens/JobeetBundle/Resources/config/validation.yml" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="48" />
+    <option name="y" value="-4" />
+    <option name="width" value="1873" />
+    <option name="height" value="1085" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="1" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jobeet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jobeet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jobeet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jobeet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jobeet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jobeet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jobeet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Ens" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JobeetBundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jobeet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jobeet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Ens" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JobeetBundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Utils" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jobeet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jobeet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Ens" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JobeetBundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jobeet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jobeet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Ens" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JobeetBundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Job" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jobeet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jobeet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Ens" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JobeetBundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Category" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jobeet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jobeet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Ens" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JobeetBundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jobeet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jobeet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Ens" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JobeetBundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jobeet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jobeet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Ens" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JobeetBundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Repository" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jobeet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jobeet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Ens" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JobeetBundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Form" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jobeet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jobeet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Ens" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JobeetBundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Entity" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jobeet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jobeet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Ens" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JobeetBundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DataFixtures" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ORM" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jobeet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jobeet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Ens" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JobeetBundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Controller" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jobeet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jobeet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jobeet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jobeet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="LayoutCode.rearrangeEntriesPHP" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8fbcf790-c71e-47bb-95f2-aec2cc97d695" name="Default" comment="" />
+      <created>1392002447952</created>
+      <updated>1392002447952</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="48" y="-4" width="1873" height="1085" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24959914" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USERS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/base.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="953">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/routing.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="953">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/routing_dev.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="953">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ens/JobeetBundle/Utils/Jobeet.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="16" selection-start="337" selection-end="337" vertical-scroll-proportion="-9.333333" vertical-offset="0" max-vertical-offset="432">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ens/JobeetBundle/Resources/config/routing/job.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="13" selection-start="240" selection-end="240" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="684">
+          <folding>
+            <marker date="1392015921574" expanded="true" signature="-1:-1" placeholder="requirements:" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ens/JobeetBundle/Resources/config/doctrine/Job.orm.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="60" selection-start="165" selection-end="165" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1278">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ens/JobeetBundle/Repository/CategoryRepository.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="31" selection-start="286" selection-end="297" vertical-scroll-proportion="-9.333333" vertical-offset="0" max-vertical-offset="522">
+          <folding>
+            <marker date="1392020050606" expanded="true" signature="-1:-1" placeholder="SELECT c FRO..." />
+            <marker date="1392020050606" expanded="true" signature="-1:-1" placeholder="SELECT c FRO..." />
+            <marker date="1392020050606" expanded="true" signature="-1:-1" placeholder="SELECT c FRO..Ens..." />
+            <marker date="1392020050606" expanded="true" signature="-1:-1" placeholder="SELECT c FRO..Ens..." />
+            <marker date="1392020050606" expanded="true" signature="-1:-1" placeholder="SELECT c FRO..EnsJobeetBundle..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ens/JobeetBundle/DataFixtures/ORM/LoadJobData.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="80" column="36" selection-start="4451" selection-end="4453" vertical-scroll-proportion="-20.222221" vertical-offset="750" max-vertical-offset="1710">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ens/JobeetBundle/Resources/config/doctrine/Category.orm.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="33" selection-start="745" selection-end="745" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="594">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ens/JobeetBundle/Entity/Category.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="200" column="21" selection-start="3726" selection-end="3726" vertical-scroll-proportion="-27.37037" vertical-offset="2861" max-vertical-offset="3762">
+          <folding>
+            <element signature="e#43#75#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ens/JobeetBundle/Resources/config/routing.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="66" selection-start="387" selection-end="387" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="73" column="0" selection-start="2038" selection-end="2038" vertical-scroll-proportion="0.0" vertical-offset="476" max-vertical-offset="1440">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ens/JobeetBundle/Repository/JobRepository.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="41" selection-start="695" selection-end="695" vertical-scroll-proportion="-9.37037" vertical-offset="215" max-vertical-offset="1368">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ens/JobeetBundle/Controller/CategoryController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="37" selection-start="1450" selection-end="1450" vertical-scroll-proportion="-28.0" vertical-offset="0" max-vertical-offset="918">
+          <folding>
+            <element signature="e#6#65#0" expanded="true" />
+            <element signature="e#107#152#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ens/JobeetBundle/Resources/views/Category/show.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="35" selection-start="1579" selection-end="1579" vertical-scroll-proportion="-19.37037" vertical-offset="179" max-vertical-offset="1080">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ens/JobeetBundle/Resources/views/Job/list.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="8" selection-start="622" selection-end="622" vertical-scroll-proportion="-9.333333" vertical-offset="0" max-vertical-offset="360">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ens/JobeetBundle/Resources/views/Job/index.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="124" selection-start="1594" selection-end="1602" vertical-scroll-proportion="-20.0" vertical-offset="0" max-vertical-offset="774">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ens/JobeetBundle/Resources/views/layout.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="53" selection-start="982" selection-end="982" vertical-scroll-proportion="-10.666667" vertical-offset="216" max-vertical-offset="1746">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ens/JobeetBundle/Resources/views/Job/new.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="928">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Controller/Controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="160" column="20" selection-start="5345" selection-end="5345" vertical-scroll-proportion="0.34295228" vertical-offset="2247" max-vertical-offset="4428">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ens/JobeetBundle/Controller/JobController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="92" column="0" selection-start="2502" selection-end="2502" vertical-scroll-proportion="-15.333333" vertical-offset="1242" max-vertical-offset="4536">
+          <folding>
+            <element signature="e#47#92#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ens/JobeetBundle/Entity/Job.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="107" column="17" selection-start="1327" selection-end="1327" vertical-scroll-proportion="-7.263158" vertical-offset="1512" max-vertical-offset="9486">
+          <folding>
+            <element signature="e#43#75#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ens/JobeetBundle/Form/JobType.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="93" selection-start="912" selection-end="912" vertical-scroll-proportion="-18.0" vertical-offset="0" max-vertical-offset="1026">
+          <folding>
+            <element signature="e#41#81#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ens/JobeetBundle/Resources/config/validation.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="10" selection-start="546" selection-end="556" vertical-scroll-proportion="0.4849138" vertical-offset="0" max-vertical-offset="928">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
