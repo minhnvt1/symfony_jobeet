@@ -42,21 +42,28 @@ class JobController extends Controller
      */
     public function createAction(Request $request)
     {
-        $entity = new Job();
-        $form = $this->createCreateForm($entity);
-        $form->handleRequest($request);
+        $entity  = new Job();
+        $request = $this->getRequest();
+        $form    = $this->createForm(new JobType(), $entity);
+        $form->bindRequest($request);
 
         if ($form->isValid()) {
-            $em = $this->getDoctrine()->getManager();
+            $em = $this->getDoctrine()->getEntityManager();
+
             $em->persist($entity);
             $em->flush();
 
-            return $this->redirect($this->generateUrl('ens_job_show', array('id' => $entity->getId())));
+            return $this->redirect($this->generateUrl('ens_job_show', array(
+                'company' => $entity->getCompanySlug(),
+                'location' => $entity->getLocationSlug(),
+                'id' => $entity->getId(),
+                'position' => $entity->getPositionSlug()
+            )));
         }
 
         return $this->render('EnsJobeetBundle:Job:new.html.twig', array(
             'entity' => $entity,
-            'form'   => $form->createView(),
+            'form'   => $form->createView()
         ));
     }
 
@@ -88,7 +95,10 @@ class JobController extends Controller
         $entity = new Job();
         $request = $this->getRequest();
 
-        $form   = $this->createForm(new JobType(), $entity);
+        $form   = $this->createForm(new JobType(), $entity, array(
+            'action' => $this->generateUrl('ens_job_create'),
+            'method' => 'POST',
+        ));
         $form->bind($request);
 
         if ($form->isValid()) {
@@ -104,6 +114,7 @@ class JobController extends Controller
                 'position' => $entity->getPositionSlug()
             )));
         }
+
         return $this->render('EnsJobeetBundle:Job:new.html.twig', array(
             'entity' => $entity,
             'form'   => $form->createView(),

@@ -28,7 +28,7 @@ class JobType extends AbstractType
         $builder->add('file', 'file', array('label' => 'Company logo', 'required' => false));
         $builder->add('how_to_apply', null, array('label' => 'How to apply?'));
         $builder->add('is_public', null, array('label' => 'Public?'));
-
+        $builder->add('submit', 'submit', array('label' => 'Create'));
     }
     
     /**
