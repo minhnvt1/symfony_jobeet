@@ -23,7 +23,6 @@ class JobType extends AbstractType
         $builder->add('position');
         $builder->add('location');
         $builder->add('description');
-        $builder->add('token');
         $builder->add('email');
         $builder->add('file', 'file', array('label' => 'Company logo', 'required' => false));
         $builder->add('how_to_apply', null, array('label' => 'How to apply?'));

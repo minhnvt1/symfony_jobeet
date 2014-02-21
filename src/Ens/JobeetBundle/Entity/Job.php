@@ -519,7 +519,7 @@ class Job
         return null === $this->logo ? null : $this->getUploadRootDir().'/'.$this->logo;
     }
     /**
-     * @ORM\prePersist
+     * @ORM\PrePersist
      */
     public function preUpload()
     {
@@ -530,7 +530,7 @@ class Job
     }
 
     /**
-     * @ORM\postPersist
+     * @ORM\PostPersist
      */
     public function upload()
     {
@@ -547,7 +547,7 @@ class Job
     }
 
     /**
-     * @ORM\postRemove
+     * @ORM\PostRemove
      */
     public function removeUpload()
     {
@@ -573,5 +573,31 @@ class Job
     public function getLocationSlug()
     {
         return Jobeet::slugify($this->getLocation());
+    }
+
+    public function setTokenValue()
+    {
+        if (!$this->getToken())
+        {
+            $this->token = sha1($this->getEmail() . rand(11111, 99999));
+        }
+    }
+    public function isExpired()
+    {
+        return $this->getDaysBeforeExpires() < 0;
+    }
+
+    public function expiresSoon()
+    {
+        return $this->getDaysBeforeExpires() < 5;
+    }
+
+    public function getDaysBeforeExpires()
+    {
+        return ceil(($this->getExpiresAt()->format('U') - time()) / 86400);
+    }
+    public function publish()
+    {
+        $this->setIsActivated(true);
     }
 }
